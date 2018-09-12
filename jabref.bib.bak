@@ -1,0 +1,106 @@
+% This file was created with JabRef 2.10.
+% Encoding: GBK
+
+
+@InProceedings{Bai_2018_CVPR,
+  Title                    = {Finding Tiny Faces in the Wild With Generative Adversarial Network},
+  Author                   = {Bai, Yancheng and Zhang, Yongqiang and Ding, Mingli and Ghanem, Bernard},
+  Booktitle                = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  Year                     = {2018},
+  Month                    = {June}
+}
+
+@InProceedings{girshickICCV15fastrcnn,
+  Title                    = {Fast R-CNN},
+  Author                   = {Ross Girshick},
+  Booktitle                = {International Conference on Computer Vision ({ICCV})},
+  Year                     = {2015}
+}
+
+@InProceedings{Hu_2017_CVPR,
+  Title                    = {FastMask: Segment Multi-Scale Object Candidates in One Shot},
+  Author                   = {Hu, Hexiang and Lan, Shiyi and Jiang, Yuning and Cao, Zhimin and Sha, Fei},
+  Booktitle                = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  Year                     = {2017},
+  Month                    = {July}
+}
+
+@Article{DBLP:journals/corr/HuTG16,
+  Title                    = {Distributable Consistent Multi-Graph Matching},
+  Author                   = {Nan Hu and
+Boris Thibert and
+Leonidas J. Guibas},
+  Journal                  = {CoRR},
+  Year                     = {2016},
+  Volume                   = {abs/1611.07191},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, https://dblp.org},
+  Biburl                   = {https://dblp.org/rec/bib/journals/corr/HuTG16},
+  Eprint                   = {1611.07191}
+}
+
+@InProceedings{juefei2017local,
+  Title                    = {Local binary convolutional neural networks},
+  Author                   = {Juefei-Xu, Felix and Boddeti, Vishnu Naresh and Savvides, Marios},
+  Booktitle                = {Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on},
+  Year                     = {2017},
+  Organization             = {IEEE},
+  Volume                   = {1}
+}
+
+@InProceedings{Kong_2017_CVPR,
+  Title                    = {RON: Reverse Connection With Objectness Prior Networks for Object Detection},
+  Author                   = {Kong, Tao and Sun, Fuchun and Yao, Anbang and Liu, Huaping and Lu, Ming and Chen, Yurong},
+  Booktitle                = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  Year                     = {2017},
+  Month                    = {July}
+}
+
+@InProceedings{palaciofolz2018s2snets,
+  Title                    = {What do Deep Networks Like to See},
+  Author                   = {Sebastian Palacio and Joachim Folz and Joern Hees and Federico Raue and Damian Borth and Andreas Dengel},
+  Booktitle                = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  Year                     = {2018},
+  Month                    = {June}
+}
+
+@InProceedings{renNIPS15fasterrcnn,
+  Title                    = {Faster {R-CNN}: Towards Real-Time Object Detection
+ with Region Proposal Networks},
+  Author                   = {Shaoqing Ren and Kaiming He and Ross Girshick and Jian Sun},
+  Booktitle                = {Advances in Neural Information Processing Systems ({NIPS})},
+  Year                     = {2015}
+}
+
+@InProceedings{Guler2018DensePose,
+  Title                    = {DensePose: Dense Human Pose Estimation In The Wild},
+  Author                   = {Riza Alp Guler, Natalia Neverova, Iasonas Kokkinos},
+  Year                     = {2018},
+
+  Journal                  = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}
+}
+
+@InProceedings{tang2015subgraph,
+  Title                    = {Subgraph decomposition for multi-target tracking},
+  Author                   = {Tang, Siyu and Andres, Bjoern and Andriluka, Miykhaylo and Schiele, Bernt},
+  Booktitle                = {CVPR},
+  Year                     = {2015}
+}
+
+@InProceedings{taskonomy2018,
+  Title                    = {Taskonomy: Disentangling Task Transfer Learning},
+  Author                   = {Amir R. Zamir and Alexander Sax and William B. Shen and Leonidas J. Guibas and Jitendra Malik and Silvio Savarese},
+  Booktitle                = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  Year                     = {2018},
+  Organization             = {IEEE}
+}
+
+@InProceedings{Zhou_2017_CVPR,
+  Title                    = {Oriented Response Networks},
+  Author                   = {Zhou, Yanzhao and Ye, Qixiang and Qiu, Qiang and Jiao, Jianbin},
+  Booktitle                = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  Year                     = {2017},
+  Month                    = {July}
+}
+
